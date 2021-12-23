@@ -9,6 +9,6 @@
 
 ### 🛠 Tecnologias Utilizadas
 
--[npm](https://www.npmjs.com/)
--[React](https://pt-br.reactjs.org/)
--[NextJS](https://nextjs.org/)
+[npm](https://www.npmjs.com/)
+[React](https://pt-br.reactjs.org/)
+[NextJS](https://nextjs.org/)
